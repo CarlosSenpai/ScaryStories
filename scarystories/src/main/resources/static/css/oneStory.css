@@ -1,0 +1,20 @@
+#bodyFix {
+	background-color: black;
+}
+
+#story {
+	display: block;
+	text-align: center;
+}
+
+#p {
+	background-color: azure;
+	width: 300px;
+	height: 300px;
+	margin: auto;
+	
+}
+
+.h2 {
+	color: crimson;
+}

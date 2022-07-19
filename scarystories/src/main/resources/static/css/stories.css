@@ -1,0 +1,45 @@
+body {
+	text-align:center;
+}
+
+.h1 {
+	color: red;
+	margin: 0px;
+	margin-bottom: 10px;
+}
+
+.h4 {
+	color: red;
+}
+
+.scroll {
+	border: transparent;
+	height: 100 px;
+	width: 500px;
+	overflow-x: hidden;
+	white-space: nowrap;
+	display:inline-block;
+}
+
+/* HORIZONTAL SCROLL */
+.scroll-container{
+  overflow: auto;
+  white-space: nowrap;
+  padding: 5px 70px 5px 20px;
+  background: transparent;
+  height: 100%;
+  border-radius:transparent;
+  
+}
+
+::-webkit-scrollbar {
+  display: none;}
+
+.gridscroll{
+  display:inline-block;
+}
+
+.gridscroll img {
+  margin-right:22px;
+}
+
